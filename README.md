@@ -1,2 +1,1 @@
-# Insurance_Case_Study
-EDA on the Health Insurance dataset
+EDA on various datasets
